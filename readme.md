@@ -1,10 +1,10 @@
 # URL Shortner Website
- - developed by JV Logesh For youtube channel "JVL code"
+    developed by JV Logesh For youtube channel "JVL code"
 
 ## Requirements:
-PHP 7.4
-Composer (latest version)
-Mysql Database
+    - PHP 7.4
+    - Composer (latest version)
+    - Mysql Database
 
 
 ## How to use:
